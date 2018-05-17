@@ -1,0 +1,5 @@
+{"playlist":[
+	{"comment":"TOP Vostok","file":"http://topchantv.net:3456/live/topchantv.net/DlyaSaytaSrteam/6.m3u8","poster":"http://topchantv.net/wp-content/themes/divantv/uppod/img/vostok.png"},
+	{"comment":"TOP 80","file":"http://topchantv.net:3456/live/topchantv.net/DlyaSaytaSrteam/277.m3u8","poster":"http://topchantv.net/wp-content/themes/divantv/uppod/img/80.png"},
+	{"comment":"TOP Music","file":"http://topchantv.net:3456/live/topchantv.net/DlyaSaytaSrteam/1666.m3u8","poster":"http://topchantv.net/wp-content/themes/divantv/uppod/img/topmosic.png"},
+	{"comment":"TOP CinemaHD","file":"http://topchantv.net:3456/live/topchantv.net/DlyaSaytaSrteam/1611.m3u8","poster":"http://topchantv.net/wp-content/themes/divantv/uppod/img/power.jpg"}]}
