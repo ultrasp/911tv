@@ -33,10 +33,13 @@
 					<thead>
 						<tr>
 							<th>
-								Соревнование
+								№
 							</th>
 							<th>
-								Название чемпионата
+								Событие
+							</th>
+							<th>
+								Канал показа
 							</th>
 							<th>
 								Время показа
@@ -44,13 +47,16 @@
 						</tr>
 					</thead>
 					<tbody>
-					@foreach($program as $item)
+					@foreach($program as $key => $item)
 						<tr>
+							<td>
+								{{ $key + 1 }} 
+							</td>
 							<td>
 								{{ $item->name }}	
 							</td>				
 							<td>
-								{{$item->liga}}
+								{{$item->channel}}
 							</td>			
 							<td style="text-align: center;">
 								{{ date('H:i', strtotime($item->hold_date)) }}
